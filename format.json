@@ -1,0 +1,62 @@
+{
+  "1234567": {
+
+    "catalog": {
+      "title": "Nama Game Override",
+      "developer": "Dev Override",
+      "publisher": "Pub Override",
+      "developers": ["Dev A", "Dev B"],
+      "publishers": ["Pub A", "Pub B"],
+      "genre": "Action, RPG, Adventure",
+      "short_description": "Deskripsi singkat override",
+      "release_date": "22 May, 2026",
+      "price_normalized": 200000,
+      "price_display": "Rp 200.000",
+      "protection": true,
+      "header": "https://example.com/header.jpg",
+      "icon": "https://example.com/icon.png",
+      "library_capsule_2x": "https://example.com/capsule_600x900.jpg",
+      "library_hero_2x": "https://example.com/hero_3840x1240.jpg",
+      "background_raw": "https://example.com/background.jpg"
+    },
+
+    "detail": {
+      "short_description": "Override short desc di detail page",
+      "about_the_game": "<p>Override About the Game HTML</p>",
+      "detailed_description": "<p>Override Detailed Description HTML</p>",
+      "supported_languages": "English, Indonesian, Japanese",
+      "website": "https://override-website.com",
+      "developers": ["Studio Override A"],
+      "publishers": ["Publisher Override A"],
+      "release_date": "22 May, 2026",
+      "screenshots": [
+        { "id": 1, "thumbnail": "https://example.com/ss1_thumb.jpg", "full": "https://example.com/ss1_full.jpg" },
+        { "id": 2, "thumbnail": "https://example.com/ss2_thumb.jpg", "full": "https://example.com/ss2_full.jpg" }
+      ],
+      "movies": [
+        {
+          "id": 1,
+          "name": "Official Trailer",
+          "thumbnail": "https://example.com/trailer_thumb.jpg",
+          "hls_url": "https://example.com/trailer.m3u8",
+          "dash_h264_url": "https://example.com/trailer.mpd",
+          "is_highlight": true
+        }
+      ],
+      "background_image": "https://example.com/store_bg.jpg",
+      "pc_requirements_minimum": "OS: Windows 10\nProcessor: Intel i5\nMemory: 8 GB RAM\nGraphics: GTX 1060",
+      "pc_requirements_recommended": "OS: Windows 11\nProcessor: Intel i7\nMemory: 16 GB RAM\nGraphics: RTX 3070",
+      "mac_requirements_minimum": null,
+      "mac_requirements_recommended": null,
+      "linux_requirements_minimum": null,
+      "linux_requirements_recommended": null,
+      "categories": ["Single-player", "Co-op", "Cloud Saves"],
+      "support_url": "https://support.example.com",
+      "support_email": "support@example.com",
+      "legal_notice": "© 2026 Override Studio",
+      "drm_notice": "Requires 3rd-party account",
+      "store_price_final_formatted": "$59.99",
+      "store_price_currency": "USD"
+    }
+  }
+}
