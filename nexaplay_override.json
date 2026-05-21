@@ -10,5 +10,11 @@
       "library_capsule_2x": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/307780/library_600x900_2x.jpg?t=1761846088",
       "library_hero_2x": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/307780/library_hero.jpg?t=1761846088"
     }
-  }
+  },
+  "2483190": {
+    "catalog": {
+      "library_capsule_2x": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2483190/711e39803402def82a90e1f31578c64744f952f3/library_capsule_2x.jpg?t=1779221600",
+      "library_hero_2x": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2483190/3eeb9970d8a8b6634d114b43e0edba78a7ee1eb6/library_hero_2x.jpg?t=1779221600"
+    }
+}
 }
