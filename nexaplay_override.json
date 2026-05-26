@@ -27,7 +27,12 @@
     "catalog": {
       "library_capsule_2x": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3159330/bdab6ed673aea5877d76e8c99c696ced92cf0d12/library_capsule_2x.jpg?t=1775589420",
       "library_hero_2x": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3159330/7e28d06f1f49bfdf57f0eca2f570f3a0b3fb09b0/library_hero_2x.jpg?t=1775589420"
-    }
+    },
+	"detail": {
+	   "developers":[
+	   "Ubisoft"
+	   ]
+	}
   },
   "1490890": {
     "catalog": {
