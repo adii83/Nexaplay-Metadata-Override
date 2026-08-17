@@ -16,23 +16,21 @@
       "library_capsule_2x": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2483190/711e39803402def82a90e1f31578c64744f952f3/library_capsule_2x.jpg?t=1779221600",
       "library_hero_2x": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2483190/3eeb9970d8a8b6634d114b43e0edba78a7ee1eb6/library_hero_2x.jpg?t=1779221600"
     }
-  },  
+  },
   "976310": {
     "catalog": {
       "library_capsule_2x": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976310/library_600x900_2x.jpg?t=1775508340",
       "library_hero_2x": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976310/library_hero.jpg?t=1775508340"
     }
-  },  
+  },
   "3159330": {
     "catalog": {
       "library_capsule_2x": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3159330/bdab6ed673aea5877d76e8c99c696ced92cf0d12/library_capsule_2x.jpg?t=1775589420",
       "library_hero_2x": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3159330/7e28d06f1f49bfdf57f0eca2f570f3a0b3fb09b0/library_hero_2x.jpg?t=1775589420"
     },
-	"detail": {
-	   "developers":[
-	   "Ubisoft"
-	   ]
-	}
+    "detail": {
+      "developers": ["Ubisoft"]
+    }
   },
   "1490890": {
     "catalog": {
@@ -46,393 +44,30 @@
       "library_hero_2x": "https://steamdb.info/app/2928600/screenshots/"
     }
   },
-  "42680": {
-    "success": true,
-    "source_priority": "unknown",
-    "fetch_status": {
-      "steam_appdetails": true,
-      "steam_original_assets": true
-    },
-    "name": "Call of Duty: Modern Warfare 3",
-    "steam_appid": "42680",
-    "steamgriddb_game_id": 10029,
-    "store_asset_mtime": 1566872035,
-    "assets_count": 27,
-    "assets": {
-      "header": [
-        {
-          "path": "header.jpg",
-          "url": "https://shared.steamstatic.com/store_item_assets/steam/apps/42680/header.jpg?t=1566872035",
-          "language": "english"
-        }
-      ],
-      "library_capsule": [
-        {
-          "path": "library_600x900.jpg",
-          "url": "https://shared.steamstatic.com/store_item_assets/steam/apps/42680/library_600x900.jpg?t=1566872035",
-          "language": "english"
-        }
-      ],
-      "library_capsule_2x": [
-        {
-          "path": "library_600x900_2x.jpg",
-          "url": "https://shared.steamstatic.com/store_item_assets/steam/apps/42680/library_600x900_2x.jpg?t=1566872035",
-          "language": "english"
-        }
-      ],
-      "library_hero": [
-        {
-          "path": "library_hero.jpg",
-          "url": "https://shared.steamstatic.com/store_item_assets/steam/apps/42680/library_hero.jpg?t=1566872035",
-          "language": "english"
-        }
-      ],
-      "library_hero_2x": [
-        {
-          "path": "library_hero_2x.jpg",
-          "url": "https://shared.steamstatic.com/store_item_assets/steam/apps/42680/library_hero_2x.jpg?t=1566872035",
-          "language": "english"
-        }
-      ],
-      "library_logo": [
-        {
-          "path": "logo.png",
-          "url": "https://shared.steamstatic.com/store_item_assets/steam/apps/42680/logo.png?t=1566872035",
-          "language": "english"
-        }
-      ],
-      "library_logo_2x": [
-        {
-          "path": "logo_2x.png",
-          "url": "https://shared.steamstatic.com/store_item_assets/steam/apps/42680/logo_2x.png?t=1566872035",
-          "language": "english"
-        }
-      ],
-      "clienticon": [
-        {
-          "hash": "d95d20dd4381f6935fbc1a62be592d21a64c2af7",
-          "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/42680/d95d20dd4381f6935fbc1a62be592d21a64c2af7.ico"
-        }
-      ],
-      "icon": [
-        {
-          "hash": "c3330a875925437d8216949b6571f6e941ba0679",
-          "url": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/42680/c3330a875925437d8216949b6571f6e941ba0679.jpg"
-        }
-      ],
-      "capsule_image": [
-        {
-          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/capsule_231x87.jpg?t=1782415611"
-        }
-      ],
-      "capsule_imagev5": [
-        {
-          "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/capsule_184x69.jpg?t=1782415611"
-        }
-      ],
-      "background": [
-        {
-          "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/42680?t=1782415611"
-        }
-      ],
-      "background_raw": [
-        {
-          "url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/42680?t=1782415611"
-        }
-      ],
-      "screenshots": [
-        {
-          "id": 0,
-          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_9049aad3d1d6d6023fd3c8585b33444e052e1c7a.600x338.jpg?t=1782415611",
-          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_9049aad3d1d6d6023fd3c8585b33444e052e1c7a.1920x1080.jpg?t=1782415611"
-        },
-        {
-          "id": 1,
-          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_9f1fa5b5127f5d079baeed252c9f951d504f5f8d.600x338.jpg?t=1782415611",
-          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_9f1fa5b5127f5d079baeed252c9f951d504f5f8d.1920x1080.jpg?t=1782415611"
-        },
-        {
-          "id": 2,
-          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_340b7fdaf9975d3605ae58d05866bd76217b6f1e.600x338.jpg?t=1782415611",
-          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_340b7fdaf9975d3605ae58d05866bd76217b6f1e.1920x1080.jpg?t=1782415611"
-        },
-        {
-          "id": 3,
-          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_d36b4d8da4691318e6d8138b7a28ee6c41ce5cec.600x338.jpg?t=1782415611",
-          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_d36b4d8da4691318e6d8138b7a28ee6c41ce5cec.1920x1080.jpg?t=1782415611"
-        },
-        {
-          "id": 4,
-          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_c12675924545e035d700a4f57983a2c7161c5e59.600x338.jpg?t=1782415611",
-          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_c12675924545e035d700a4f57983a2c7161c5e59.1920x1080.jpg?t=1782415611"
-        },
-        {
-          "id": 5,
-          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_b8daa5ed6f9ece521e2b0387107a8c18b556a324.600x338.jpg?t=1782415611",
-          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_b8daa5ed6f9ece521e2b0387107a8c18b556a324.1920x1080.jpg?t=1782415611"
-        },
-        {
-          "id": 6,
-          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_7dac1f364c3140430d936546c4775d99e2c1d1e3.600x338.jpg?t=1782415611",
-          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_7dac1f364c3140430d936546c4775d99e2c1d1e3.1920x1080.jpg?t=1782415611"
-        },
-        {
-          "id": 7,
-          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_2a821fdedb4103bc768c8c9d6d4e2e83c0e355f6.600x338.jpg?t=1782415611",
-          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_2a821fdedb4103bc768c8c9d6d4e2e83c0e355f6.1920x1080.jpg?t=1782415611"
-        },
-        {
-          "id": 8,
-          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_eb46148984c39518162d7695a4428a6916a025aa.600x338.jpg?t=1782415611",
-          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_eb46148984c39518162d7695a4428a6916a025aa.1920x1080.jpg?t=1782415611"
-        },
-        {
-          "id": 9,
-          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_60103358eae40cfe50ee857a642ce8e60be58ab0.600x338.jpg?t=1782415611",
-          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_60103358eae40cfe50ee857a642ce8e60be58ab0.1920x1080.jpg?t=1782415611"
-        },
-        {
-          "id": 10,
-          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_0d8656bf3a86fba3a4d4c886b2afa13b965e5cea.600x338.jpg?t=1782415611",
-          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_0d8656bf3a86fba3a4d4c886b2afa13b965e5cea.1920x1080.jpg?t=1782415611"
-        },
-        {
-          "id": 11,
-          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_d055cb6a00ea2e8fe6a8cf1d83ecb57503bd61bf.600x338.jpg?t=1782415611",
-          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_d055cb6a00ea2e8fe6a8cf1d83ecb57503bd61bf.1920x1080.jpg?t=1782415611"
-        },
-        {
-          "id": 12,
-          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_089ee3cb64a51e4685d057804d55bb3566418af6.600x338.jpg?t=1782415611",
-          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42680/ss_089ee3cb64a51e4685d057804d55bb3566418af6.1920x1080.jpg?t=1782415611"
-        }
-      ],
-      "movies": [],
-      "embedded_media": {
-        "about_the_game_urls": [],
-        "detailed_description_urls": [],
-        "all_urls": [],
-        "videos_mp4": [],
-        "videos_webm": [],
-        "images": []
-      }
-    },
-    "store_data": {
-      "type": "game",
-      "required_age": 0,
-      "is_free": false,
-      "about_the_game": "<p class=\"bb_paragraph\" >The best-selling first person action series of all-time returns with the epic sequel to multiple “Game of the Year” award winner, <strong>Call of Duty®: Modern Warfare® 2</strong>. In the world’s darkest hour, are you willing to do what is necessary? Prepare yourself for a cinematic thrill-ride only <strong>Call of Duty</strong> can deliver. The definitive Multiplayer experience returns bigger and better than ever, loaded with new maps, modes and features. Co-Op play has evolved with all-new Spec-Ops missions and leaderboards, as well as Survival Mode, an action-packed combat progression unlike any other.</p>",
-      "detailed_description": "<p class=\"bb_paragraph\" >The best-selling first person action series of all-time returns with the epic sequel to multiple “Game of the Year” award winner, <strong>Call of Duty®: Modern Warfare® 2</strong>. In the world’s darkest hour, are you willing to do what is necessary? Prepare yourself for a cinematic thrill-ride only <strong>Call of Duty</strong> can deliver. The definitive Multiplayer experience returns bigger and better than ever, loaded with new maps, modes and features. Co-Op play has evolved with all-new Spec-Ops missions and leaderboards, as well as Survival Mode, an action-packed combat progression unlike any other.</p>",
-      "short_description": "The best-selling first-person action series of all-time returns with an epic sequel to the multiple GOTY award winner Call of Duty®: Modern Warfare® 2",
-      "supported_languages": "English, French, Italian, German, Spanish - Spain",
-      "website": "http://www.callofduty.com",
-      "pc_requirements": {
-        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows® XP/ Windows® Vista / Windows® 7<br></li><li><strong>Processor:</strong> Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750 processor or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Shader 3.0 or better 256 MB NVIDIA® GeForce™ 8600GT / ATI® Radeon™ X1950 or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 16 GB available space<br></li><li><strong>Sound Card:</strong> DirectX® 9.0c or later<br></li><li><strong>Additional Notes:</strong> Broadband connection and service required for Multiplayer Connectivity. Internet connection required for activation.</li></ul>"
-      },
-      "mac_requirements": [],
-      "linux_requirements": [],
+  "346110": {
+    "detail": {
       "developers": [
-        "Infinity Ward",
-        "Sledgehammer Games"
-      ],
-      "publishers": [
-        "Activision"
-      ],
-      "support_info": {
-        "url": "http://www.activision.com/support",
-        "email": ""
-      },
-      "legal_notice": "© 2017 Activision Publishing, Inc. Activision, Call of Duty and Modern Warfare are registered trademarks and Call of Duty MW3 is a trademark of Activision Publishing, Inc. All rights reserved. The ratings icon is a registered trademark of the Entertainment Software Association. All other trademarks and trade names are the properties of their respective owners.",
-      "price_overview": {
-        "currency": "USD",
-        "initial": 3999,
-        "final": 3999,
-        "discount_percent": 0,
-        "initial_formatted": "",
-        "final_formatted": "$39.99"
-      },
-      "packages": [
-        12205,
-        49978,
-        49981
-      ],
-      "package_groups": [
-        {
-          "name": "default",
-          "title": "Buy Call of Duty®: Modern Warfare® 3 (2011)",
-          "description": "",
-          "selection_text": "Select a purchase option",
-          "save_text": "",
-          "display_type": 0,
-          "is_recurring_subscription": "false",
-          "subs": [
-            {
-              "packageid": 12205,
-              "percent_savings_text": " ",
-              "percent_savings": 0,
-              "option_text": "Call of Duty®: Modern Warfare® 3 (2011) - $39.99",
-              "option_description": "",
-              "can_get_free_license": "0",
-              "is_free_license": false,
-              "price_in_cents_with_discount": 3999
-            },
-            {
-              "packageid": 49978,
-              "percent_savings_text": " ",
-              "percent_savings": 0,
-              "option_text": "Call of Duty®: Modern Warfare® 3 (2011) Bundle - $89.99",
-              "option_description": "",
-              "can_get_free_license": "0",
-              "is_free_license": false,
-              "price_in_cents_with_discount": 8999
-            },
-            {
-              "packageid": 49981,
-              "percent_savings_text": " ",
-              "percent_savings": 0,
-              "option_text": "Call of Duty: Modern Warfare Franchise Bundle (ROW) - $139.99",
-              "option_description": "",
-              "can_get_free_license": "0",
-              "is_free_license": false,
-              "price_in_cents_with_discount": 13999
-            }
-          ]
-        }
-      ],
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "categories": [
-        {
-          "id": 2,
-          "description": "Single-player"
-        },
-        {
-          "id": 1,
-          "description": "Multi-player"
-        },
-        {
-          "id": 9,
-          "description": "Co-op"
-        },
-        {
-          "id": 22,
-          "description": "Steam Achievements"
-        },
-        {
-          "id": 23,
-          "description": "Steam Cloud"
-        },
-        {
-          "id": 62,
-          "description": "Family Sharing"
-        }
-      ],
-      "genres": [
-        {
-          "id": "1",
-          "description": "Action"
-        }
-      ],
-      "recommendations": {
-        "total": 15454
-      },
-      "achievements": {
-        "total": 76,
-        "highlighted": [
-          {
-            "icon": "d0277ed56888c255836789764def88a1f92b2460.jpg",
-            "localized_name": "Back in the Fight",
-            "archived": 0,
-            "hidden": 0,
-            "name": "Back in the Fight",
-            "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/42680/d0277ed56888c255836789764def88a1f92b2460.jpg"
-          },
-          {
-            "icon": "e243f120f20271f096b2fe2bf4ba4e1467cf1f41.jpg",
-            "localized_name": "Too Big to Fail",
-            "archived": 0,
-            "hidden": 0,
-            "name": "Too Big to Fail",
-            "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/42680/e243f120f20271f096b2fe2bf4ba4e1467cf1f41.jpg"
-          },
-          {
-            "icon": "9026c1411b908c70c43a1b3b82d43d28356e1be2.jpg",
-            "localized_name": "Wet Work",
-            "archived": 0,
-            "hidden": 0,
-            "name": "Wet Work",
-            "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/42680/9026c1411b908c70c43a1b3b82d43d28356e1be2.jpg"
-          },
-          {
-            "icon": "9adb6f28a105e800fc0e6639a03bb0a694afad5f.jpg",
-            "localized_name": "Carpe Diem",
-            "archived": 0,
-            "hidden": 0,
-            "name": "Carpe Diem",
-            "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/42680/9adb6f28a105e800fc0e6639a03bb0a694afad5f.jpg"
-          },
-          {
-            "icon": "dd70ccc462cdf1e2d6a9a3a81105c88e188f5828.jpg",
-            "localized_name": "Frequent Flyer",
-            "archived": 0,
-            "hidden": 0,
-            "name": "Frequent Flyer",
-            "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/42680/dd70ccc462cdf1e2d6a9a3a81105c88e188f5828.jpg"
-          },
-          {
-            "icon": "fb68508c9dc43aed8302cc9a76b3fc3dd5611c14.jpg",
-            "localized_name": "Up to No Good",
-            "archived": 0,
-            "hidden": 0,
-            "name": "Up to No Good",
-            "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/42680/fb68508c9dc43aed8302cc9a76b3fc3dd5611c14.jpg"
-          },
-          {
-            "icon": "7dcfec47094b1b5a3e147c701ef22e5d082f3ed0.jpg",
-            "localized_name": "One Way Ticket",
-            "archived": 0,
-            "hidden": 0,
-            "name": "One Way Ticket",
-            "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/42680/7dcfec47094b1b5a3e147c701ef22e5d082f3ed0.jpg"
-          },
-          {
-            "icon": "b9551a2cb4d0a4192cbe88a00476a8c89b5a3d64.jpg",
-            "localized_name": "Welcome to WW3",
-            "archived": 0,
-            "hidden": 0,
-            "name": "Welcome to WW3",
-            "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/42680/b9551a2cb4d0a4192cbe88a00476a8c89b5a3d64.jpg"
-          },
-          {
-            "icon": "a712f321383ba3423c4312c4ca43ca4b8b3847c2.jpg",
-            "localized_name": "Sandstorm!",
-            "archived": 0,
-            "hidden": 0,
-            "name": "Sandstorm!",
-            "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/42680/a712f321383ba3423c4312c4ca43ca4b8b3847c2.jpg"
-          },
-          {
-            "icon": "d5144526cbf2fa20ec8b33ca0ff86f35093ab0d2.jpg",
-            "localized_name": "Back Seat Driver",
-            "archived": 0,
-            "hidden": 0,
-            "name": "Back Seat Driver",
-            "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/42680/d5144526cbf2fa20ec8b33ca0ff86f35093ab0d2.jpg"
-          }
-        ]
-      },
-      "release_date": {
-        "coming_soon": false,
-        "date": "Nov 8, 2011"
-      },
-      "content_descriptors": {
-        "ids": [],
-        "notes": null
-      },
-      "ratings": null
+        "Studio Wildcard",
+        "Instinct Games",
+        "Efecto Studios",
+        "Virtual Basement LLC"
+      ]
+    }
+  },
+  "750920": {
+    "detail": {
+      "developers": [
+        "Eidos-Montréal",
+        "Crystal Dynamics",
+        "Nixxes",
+        "Feral Interactive (Mac)",
+        "Feral interactive (Linux)"
+      ]
+    }
+  },
+  "1293830": {
+    "detail": {
+      "developers": ["Playground Games"]
     }
   }
 }
