@@ -240,7 +240,11 @@ def metadata_url(base_url: str, appid: int) -> str:
 
 
 def fetch_json(url: str, timeout=25):
-    with urllib.request.urlopen(url, timeout=timeout) as response:
+    request = urllib.request.Request(
+        url,
+        headers={"User-Agent": "NexaPlay-Metadata-Sync/1.0"},
+    )
+    with urllib.request.urlopen(request, timeout=timeout) as response:
         return json.loads(response.read().decode("utf-8"))
 
 
