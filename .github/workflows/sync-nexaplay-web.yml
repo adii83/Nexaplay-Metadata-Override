@@ -1,0 +1,91 @@
+name: Sync NexaPlay Web Catalog
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - new_games.json
+      - nexaplay_override.json
+      - scripts/sync_nexaplay_web.py
+      - tests/test_sync_nexaplay_web.py
+      - .github/workflows/sync-nexaplay-web.yml
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Validate without pushing Nexaplay-Web changes
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: nexaplay-web-catalog-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      AWS_DEFAULT_REGION: auto
+      R2_ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+      METADATA_BASE_URL: https://meta.nexaplaymetadata.online/Metadata
+    steps:
+      - name: Checkout metadata source
+        uses: actions/checkout@v4
+
+      - name: Test synchronizer
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
+
+      - name: Checkout NexaPlay Web
+        uses: actions/checkout@v4
+        with:
+          repository: adii83/Nexaplay-Web
+          token: ${{ secrets.NEXAPLAY_WEB_TOKEN }}
+          path: nexaplay-web
+
+      - name: List R2 metadata objects
+        run: |
+          aws s3api list-objects-v2 \
+            --endpoint-url "$R2_ENDPOINT" \
+            --bucket "${{ secrets.R2_BUCKET_NAME }}" \
+            --prefix Metadata/ \
+            --output json > "$RUNNER_TEMP/r2-metadata.json"
+
+      - name: Synchronize catalog
+        shell: bash
+        run: |
+          args=(
+            --source-root "$GITHUB_WORKSPACE"
+            --web-root "$GITHUB_WORKSPACE/nexaplay-web"
+            --r2-listing "$RUNNER_TEMP/r2-metadata.json"
+            --metadata-base-url "$METADATA_BASE_URL"
+          )
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ inputs.dry_run }}" == "true" ]]; then
+            args+=(--dry-run)
+          fi
+          python scripts/sync_nexaplay_web.py "${args[@]}"
+
+      - name: Commit and push generated catalog
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
+        working-directory: nexaplay-web
+        shell: bash
+        run: |
+          git config user.name "nexaplay-catalog-bot"
+          git config user.email "nexaplay-catalog-bot@users.noreply.github.com"
+          git add -- \
+            web_catalog_builder/games_list.json \
+            web_catalog_builder/output/search_index.json \
+            web_catalog_builder/output/overrides.json \
+            web_catalog_builder/output/r2_manifest.json
+          if git diff --cached --quiet; then
+            echo "No catalog changes"
+            exit 0
+          fi
+          git commit -m "Sync NexaPlay web catalog"
+          git pull --rebase origin main
+          git push origin HEAD:main
