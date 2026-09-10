@@ -17,6 +17,39 @@ cp integrations/nexaplay-metadata-override/README.md ../Nexaplay-Metadata-Overri
 
 Dokumentasi hasil salinan berada di `docs/nexaplay-web-sync.md`; README utama repository tujuan tetap utuh.
 
+## Catalog manifest aplikasi
+
+`scripts/generate_catalog_manifest.ps1` membuat `catalog_manifest.json` untuk delapan source yang dibaca NexaPlay:
+
+- `steam_data.json`
+- `steam_data.json.gz`
+- `override_data.json`
+- `fix_games.json`
+- `new_fix_games.json`
+- `steam_games/steam_games.json`
+- `appid_populer.json`
+- `new_games.json`
+
+Jalankan manual dari root repository metadata:
+
+```powershell
+./scripts/generate_catalog_manifest.ps1
+```
+
+Script memakai commit Git saat ini sebagai `revision`, lalu menghitung ukuran byte dan SHA-256 seluruh file. Untuk revision eksplisit:
+
+```powershell
+./scripts/generate_catalog_manifest.ps1 -Revision "2026-09-11.1"
+```
+
+Jalankan self-check:
+
+```powershell
+./tests/Test-GenerateCatalogManifest.ps1
+```
+
+Workflow `.github/workflows/generate-catalog-manifest.yml` menjalankan proses yang sama setiap source berubah dan hanya commit `catalog_manifest.json` jika hasilnya berbeda.
+
 ## GitHub Actions secrets
 
 Tambahkan lima repository secrets berikut ke `adii83/Nexaplay-Metadata-Override`:

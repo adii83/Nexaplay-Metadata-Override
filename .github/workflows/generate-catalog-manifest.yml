@@ -1,0 +1,56 @@
+name: Generate Catalog Manifest
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - steam_data.json
+      - steam_data.json.gz
+      - override_data.json
+      - fix_games.json
+      - new_fix_games.json
+      - steam_games/steam_games.json
+      - appid_populer.json
+      - new_games.json
+      - scripts/generate_catalog_manifest.ps1
+      - tests/Test-GenerateCatalogManifest.ps1
+      - .github/workflows/generate-catalog-manifest.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nexaplay-catalog-manifest
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout metadata repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Test generator
+        shell: pwsh
+        run: ./tests/Test-GenerateCatalogManifest.ps1
+
+      - name: Generate manifest
+        shell: pwsh
+        run: ./scripts/generate_catalog_manifest.ps1 -SourceRoot . -Revision "${{ github.sha }}"
+
+      - name: Commit manifest when changed
+        shell: bash
+        run: |
+          git add -- catalog_manifest.json
+          if git diff --cached --quiet; then
+            echo "Catalog manifest unchanged"
+            exit 0
+          fi
+          git config user.name "nexaplay-metadata-bot"
+          git config user.email "nexaplay-metadata-bot@users.noreply.github.com"
+          git commit -m "Update catalog manifest"
+          git pull --rebase origin main
+          git push origin HEAD:main

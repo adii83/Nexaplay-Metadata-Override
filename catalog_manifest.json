@@ -1,0 +1,46 @@
+{
+    "schema":  1,
+    "revision":  "d3a73019e33b7996a83223b0461b6f934d6a4eac",
+    "files":  {
+                  "steam_data.json":  {
+                                          "url":  "https://raw.githubusercontent.com/adii83/Nexaplay-Metadata-Override/main/steam_data.json",
+                                          "size":  13271511,
+                                          "sha256":  "8968281611091aa74341d96b79887dce4dbf4a76d296cbe2b4674544b37e5ac9"
+                                      },
+                  "steam_data.json.gz":  {
+                                             "url":  "https://raw.githubusercontent.com/adii83/Nexaplay-Metadata-Override/main/steam_data.json.gz",
+                                             "size":  25354414,
+                                             "sha256":  "8a825583e8ade2cd719ffed6b52d26d60828f8957bbb7e4442f2fdf436369d03"
+                                         },
+                  "override_data.json":  {
+                                             "url":  "https://raw.githubusercontent.com/adii83/Nexaplay-Metadata-Override/main/override_data.json",
+                                             "size":  491023,
+                                             "sha256":  "f9dcfc2d0a4d242091a4d12899a4c2af5446980d660db55a6b2d525dc39e3b66"
+                                         },
+                  "fix_games.json":  {
+                                         "url":  "https://raw.githubusercontent.com/adii83/Nexaplay-Metadata-Override/main/fix_games.json",
+                                         "size":  112858,
+                                         "sha256":  "f757eda614f187903626aeefd303d31e2208a486eddd6c6ba8018eb24eb5e879"
+                                     },
+                  "new_fix_games.json":  {
+                                             "url":  "https://raw.githubusercontent.com/adii83/Nexaplay-Metadata-Override/main/new_fix_games.json",
+                                             "size":  155,
+                                             "sha256":  "f10aaca05b9c8ac23b0e50f09edf97a35fa0d500400a47bb4aae756f11abd4d5"
+                                         },
+                  "steam_games/steam_games.json":  {
+                                                       "url":  "https://raw.githubusercontent.com/adii83/Nexaplay-Metadata-Override/main/steam_games/steam_games.json",
+                                                       "size":  6473,
+                                                       "sha256":  "8db212447840474eadd186fbf2e51e8e485b71c4277e215e4df8d2f2413a15cd"
+                                                   },
+                  "appid_populer.json":  {
+                                             "url":  "https://raw.githubusercontent.com/adii83/Nexaplay-Metadata-Override/main/appid_populer.json",
+                                             "size":  3289,
+                                             "sha256":  "a20cb23e55c631cd4cea8fb2cd378708e6ba4594f91c7debdc8502a40c220328"
+                                         },
+                  "new_games.json":  {
+                                         "url":  "https://raw.githubusercontent.com/adii83/Nexaplay-Metadata-Override/main/new_games.json",
+                                         "size":  75,
+                                         "sha256":  "b0db3e56c004798a0c1690ad144cc0f5765adba9a2cef6b42392cdd8312475cd"
+                                     }
+              }
+}
