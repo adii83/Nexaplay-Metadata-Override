@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": "bbed978fd97776675c0680f49bb8565d7a762a61",
+  "revision": "fb3eb9376932d563e2961362b8172ed68fbe9ce8",
   "files": {
     "steam_data.json": {
       "url": "https://raw.githubusercontent.com/adii83/Nexaplay-Metadata-Override/main/steam_data.json",
@@ -39,8 +39,8 @@
     },
     "new_games.json": {
       "url": "https://raw.githubusercontent.com/adii83/Nexaplay-Metadata-Override/main/new_games.json",
-      "size": 68,
-      "sha256": "d811a71f3feb3c2c997387ceea7d415e627ffd9a2ee66bd6d295e64ff9372874"
+      "size": 46,
+      "sha256": "cf91940107ec2751a03303d0292afff0e94e458ec80e4927fc06ed10394b70b8"
     }
   }
 }
