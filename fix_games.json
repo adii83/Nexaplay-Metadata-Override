@@ -1409,23 +1409,6 @@
       ]
     },
     {
-      "appid": 12210,
-      "title": "Grand Theft Auto IV: The Complete Edition",
-      "publisher": "Rockstar Games",
-      "category": "rockstar",
-      "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12210/library_600x900_2x.jpg",
-      "password": "adi83geel",
-      "premium": true,
-      "files": [
-        {
-          "part": 1,
-          "filename": "gt_iv.rar",
-          "gdrive_id": "1v-24ONaI0NdVa37BBzsXIKY5BPx5Ofvz",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=1v-24ONaI0NdVa37BBzsXIKY5BPx5Ofvz"
-        }
-      ]
-    },
-    {
       "appid": 1546990,
       "title": "Grand Theft Auto: Vice City – The Definitive Edition",
       "publisher": "Rockstar Games",
@@ -1447,67 +1430,38 @@
       "title": "Grand Theft Auto V Enhanced",
       "publisher": "Rockstar Games",
       "category": "rockstar",
-      "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3240220/library_600x900_2x.jpg",
-      "password": "adi83geel",
-      "premium": false,
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/3240220/394239e5da54fed177bd0ab04590812f6add1bb5/library_600x900.jpg?t=1753974917",
+      "password": "nexaplay",
+      "premium": true,
       "use_shortcut": true,
       "exe_hint": "PlayGTAV.exe",
       "files": [
         {
           "part": 1,
           "filename": "gt_enh.rar",
-          "gdrive_id": "15uuTuIwQtv5X2px04sSgHh1N81WPshgb",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=15uuTuIwQtv5X2px04sSgHh1N81WPshgb"
+          "gdrive_id": "1PxhaInDimTXvvhBawE6M2FwM4N04EY0h",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1PxhaInDimTXvvhBawE6M2FwM4N04EY0h"
         }
       ]
     },
     {
-      "appid": "271590",
+      "appid": 271590,
       "title": "Grand Theft Auto V Legacy",
       "publisher": "Rockstar Games",
       "category": "rockstar",
-      "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/271590/library_600x900_2x.jpg?t=1753979045",
-      "password": "adi83geel",
-      "premium": false,
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/271590/library_600x900.jpg?t=1753978889",
+      "password": "nexaplay",
+      "premium": true,
       "files": [
         {
           "part": 1,
-          "filename": "gt_leg.part1.rar",
-          "gdrive_id": "1iH8jBJ6S_GInglzYnxgSCFtAlNjMnyWx",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=1iH8jBJ6S_GInglzYnxgSCFtAlNjMnyWx"
-        },
-        {
-          "part": 2,
-          "filename": "gt_leg.part2.rar",
-          "gdrive_id": "1FEtnWb-b7ADMDZ840cLOZuQCZ-FJHKr_",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=1FEtnWb-b7ADMDZ840cLOZuQCZ-FJHKr_"
-        },
-        {
-          "part": 3,
-          "filename": "gt_leg.part3.rar",
-          "gdrive_id": "1wc0K6eQwvIBZPAG0NYD2uNwWWIycLRjf",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=1wc0K6eQwvIBZPAG0NYD2uNwWWIycLRjf"
-        },
-        {
-          "part": 4,
-          "filename": "gt_leg.part4.rar",
-          "gdrive_id": "1Jgv8R5QnYp-GU5A04SSPGvfviqIgB18C",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=1Jgv8R5QnYp-GU5A04SSPGvfviqIgB18C"
-        },
-        {
-          "part": 5,
-          "filename": "gt_leg.part5.rar",
-          "gdrive_id": "1iKCWCQaAqIgUTcDL7ZmMGSW5ab-A-PVa",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=1iKCWCQaAqIgUTcDL7ZmMGSW5ab-A-PVa"
-        },
-        {
-          "part": 6,
-          "filename": "gt_leg.part6.rar",
-          "gdrive_id": "1_lukfYzG9_MfWlWUtcsazGNsnnq99sSL",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=1_lukfYzG9_MfWlWUtcsazGNsnnq99sSL"
+          "filename": "gt_leg.rar",
+          "gdrive_id": "18S3KCMsIUpfbfAmY0rT0v4AzV6zJ5rcC",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=18S3KCMsIUpfbfAmY0rT0v4AzV6zJ5rcC"
         }
       ]
     },
+
     {
       "appid": 203140,
       "title": "Hitman: Absolution™",
@@ -2419,23 +2373,6 @@
       ]
     },
     {
-      "appid": 493340,
-      "title": "Planet Coaster",
-      "publisher": "Frontier Developments",
-      "category": "other",
-      "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/493340/library_600x900_2x.jpg",
-      "password": "adi83geel",
-      "premium": true,
-      "files": [
-        {
-          "part": 1,
-          "filename": "pc_coa.rar",
-          "gdrive_id": "12y0JpOd4OAcIbkVppybLgI0QuexNR2DY",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=12y0JpOd4OAcIbkVppybLgI0QuexNR2DY"
-        }
-      ]
-    },
-    {
       "appid": 312660,
       "title": "Sniper Elite 4",
       "publisher": "Rebellion",
@@ -2964,23 +2901,6 @@
       ]
     },
     {
-      "appid": 1498570,
-      "title": "THE KING OF FIGHTERS XV",
-      "publisher": "SNK CORPORATION",
-      "category": "other",
-      "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1498570/library_600x900_2x.jpg",
-      "password": "gamehub",
-      "premium": true,
-      "files": [
-        {
-          "part": 1,
-          "filename": "tk_xv.rar",
-          "gdrive_id": "1MC0ei1WenfUV0OqkUfjkH7nqsi1rGKNa",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=1MC0ei1WenfUV0OqkUfjkH7nqsi1rGKNa"
-        }
-      ]
-    },
-    {
       "appid": 2842040,
       "title": "Star Wars Outlaws",
       "publisher": "Ubisoft",
@@ -3128,24 +3048,6 @@
       ]
     },
     {
-      "appid": 3764200,
-      "title": "Resident Evil Requiem",
-      "publisher": "CAPCOM",
-      "category": "other",
-      "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3764200/ed3b2cae7d15f598f41006f5f1e605ec5517b5e4/library_capsule_2x.jpg?t=1772587704",
-      "password": "gamehub",
-      "aktivasi_offline": true,
-      "premium": true,
-      "files": [
-        {
-          "part": 1,
-          "filename": "re_9.rar",
-          "gdrive_id": "1vk33qd3JXO5vr_6GPCELSSV4WPM3DL71",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=1vk33qd3JXO5vr_6GPCELSSV4WPM3DL71"
-        }
-      ]
-    },
-    {
       "appid": 3159330,
       "title": "Assassin's Creed Shadows",
       "publisher": "Ubisoft",
@@ -3199,6 +3101,307 @@
           "filename": "afop.rar",
           "gdrive_id": "1YXNTU1aYdb67s0DHPchopwxRkqi9mJg1",
           "gdrive_url": "https://drive.google.com/uc?export=download&id=1YXNTU1aYdb67s0DHPchopwxRkqi9mJg1"
+        }
+      ]
+    },
+    {
+      "appid": 801800,
+      "title": "Atomfall",
+      "publisher": "Rebellion",
+      "category": "other",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/801800/2b7ed6a84485e94108c4cedd2388040858302242/library_600x900.jpg?t=1758034530",
+      "password": "nexaplay",
+      "premium": true,
+      "files": [
+        {
+          "part": 1,
+          "filename": "atomfall.rar",
+          "gdrive_id": "1LMIpw7NjZthLanN6J0hBJNsqvL13YgiQ",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1LMIpw7NjZthLanN6J0hBJNsqvL13YgiQ"
+        }
+      ]
+    },
+    {
+      "appid": 2172910,
+      "title": "CAPTAIN TSUBASA 2: WORLD FIGHTERS",
+      "publisher": "Bandai Namco Entertainment Inc.",
+      "category": "other",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/2172910/9a956ea9b11a0666a0ce0fb62a9659c6dc07c353/library_capsule.jpg?t=1788135682",
+      "password": "nexaplay",
+      "premium": true,
+      "use_shortcut": true,
+      "exe_hint": "CaptainTsubasa2WF/CaptainTsubasa2WF/Binaries/Win64/CaptainTsubasa2WF-Win64-Shipping.exe",
+      "files": [
+        {
+          "part": 1,
+          "filename": "captaint.rar",
+          "gdrive_id": "14_i7fA19tKPKsLGUIiGX5KrVr6rzPHrD",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=14_i7fA19tKPKsLGUIiGX5KrVr6rzPHrD"
+        }
+      ]
+    },
+    {
+      "appid": 1114150,
+      "title": "CarX Street",
+      "publisher": "CarX Technologies, LLC",
+      "category": "other",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/1114150/0c47d1ccacf9d2006a328783441d228f835fd270/library_600x900.jpg?t=1754659362",
+      "password": "nexaplay",
+      "premium": true,
+      "use_shortcut": true,
+      "exe_hint": "CarX Street.exe",
+      "files": [
+        {
+          "part": 1,
+          "filename": "cs_str.rar",
+          "gdrive_id": "1LIEsmTECk-YsOr4jtbKxdyw5sdGS2Hb6",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1LIEsmTECk-YsOr4jtbKxdyw5sdGS2Hb6"
+        }
+      ]
+    },
+    {
+      "appid": 2928600,
+      "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+      "publisher": "SEGA",
+      "category": "other",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/2928600/cd8f57c2f07be40f38f1ecbe6d94ddda5195a1b8/library_600x900.jpg?t=1755595829",
+      "password": "nexaplay",
+      "premium": true,
+      "files": [
+        {
+          "part": 1,
+          "filename": "ds_2.rar",
+          "gdrive_id": "1BiEJEe27GTyngU9ib7hHzi8e1X2xEihA",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1BiEJEe27GTyngU9ib7hHzi8e1X2xEihA"
+        }
+      ]
+    },
+    {
+      "appid": 3025800,
+      "title": "Demon Slayer",
+      "publisher": "Nikita Morti",
+      "category": "other",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/3025800/library_600x900.jpg?t=1717997670",
+      "password": "nexaplay",
+      "premium": true,
+      "files": [
+        {
+          "part": 1,
+          "filename": "ds_sla.rar",
+          "gdrive_id": "1uTmoTOxQWsZujbncRtHKIazCrv0VS9GZ",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1uTmoTOxQWsZujbncRtHKIazCrv0VS9GZ"
+        }
+      ]
+    },
+    {
+      "appid": 4080220,
+      "title": "EA SPORTS FC™ 27",
+      "publisher": "Electronic Arts",
+      "category": "ea",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/4080220/81210d536b70c14e4cf9725f3f03d82bf64e5e25/library_capsule.jpg?t=1790973254",
+      "password": "nexaplay",
+      "premium": true,
+      "use_shortcut": true,
+      "exe_hint": "FC27.exe",
+      "files": [
+        {
+          "part": 1,
+          "filename": "es_27.rar",
+          "gdrive_id": "1dJfsRfPtTGA_yGozg5JFSNmNVXvSX3HR",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1dJfsRfPtTGA_yGozg5JFSNmNVXvSX3HR"
+        }
+      ]
+    },
+    {
+      "appid": 1100750,
+      "title": "Football Manager 2020",
+      "publisher": "SEGA",
+      "category": "other",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/1100600/library_600x900.jpg?t=1671725046",
+      "password": "nexaplay",
+      "premium": true,
+      "files": [
+        {
+          "part": 1,
+          "filename": "fm_202.rar",
+          "gdrive_id": "1ZcVWVQZelEyF25g9S16C2CYRUWqs5uZQ",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1ZcVWVQZelEyF25g9S16C2CYRUWqs5uZQ"
+        }
+      ]
+    },
+    {
+      "appid": 2017220,
+      "title": "Football Manager 2023",
+      "publisher": "SEGA",
+      "category": "other",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/1904540/library_600x900.jpg?t=1677169246",
+      "password": "nexaplay",
+      "premium": true,
+      "files": [
+        {
+          "part": 1,
+          "filename": "fm_202.rar",
+          "gdrive_id": "1I2q-BK7dBvMxRv5ElzN9kgsunwZ9qfjv",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1I2q-BK7dBvMxRv5ElzN9kgsunwZ9qfjv"
+        }
+      ]
+    },
+    {
+      "appid": 3010850,
+      "title": "Gears of War: E-Day",
+      "publisher": "Xbox Game Studios",
+      "category": "other",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/3010850/library_600x900.jpg?t=1717869028",
+      "password": "nexaplay",
+      "premium": true,
+      "use_shortcut": true,
+      "exe_hint": "FairlightConcept/Binaries/Win64/GoWEDay-Steam.exe",
+      "files": [
+        {
+          "part": 1,
+          "filename": "goweday.rar",
+          "gdrive_id": "1bi0h4A18Q9whI0f154yy7e_oLu6XmnpZ",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1bi0h4A18Q9whI0f154yy7e_oLu6XmnpZ"
+        }
+      ]
+    },
+    {
+      "appid": 12210,
+      "title": "Grand Theft Auto IV: The Complete Edition",
+      "publisher": "Rockstar Games",
+      "category": "rockstar",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/12210/library_600x900.jpg?t=1584660024",
+      "password": "nexaplay",
+      "premium": true,
+      "files": [
+        {
+          "part": 1,
+          "filename": "gt_edi.rar",
+          "gdrive_id": "1WcNUaRbTdSKHYlx5Nph_qrDtBO3adSVQ",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1WcNUaRbTdSKHYlx5Nph_qrDtBO3adSVQ"
+        }
+      ]
+    },
+    {
+      "appid": 2290180,
+      "title": "Riders Republic",
+      "publisher": "Ubisoft Entertainment",
+      "category": "ubisoft",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/2290180/library_600x900.jpg?t=1760115160",
+      "password": "nexaplay",
+      "premium": true,
+      "use_shortcut": true,
+      "exe_hint": "Start.exe",
+      "files": [
+        {
+          "part": 1,
+          "filename": "ridersre.rar",
+          "gdrive_id": "1wPOVHFPPUCdY_WMvqoffufNP1Me3qxwC",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1wPOVHFPPUCdY_WMvqoffufNP1Me3qxwC"
+        }
+      ]
+    },
+    {
+      "appid": 2055290,
+      "title": "Sonic Colors: Ultimate",
+      "publisher": "SEGA",
+      "category": "other",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/2055290/library_600x900.jpg?t=1741795726",
+      "password": "nexaplay",
+      "premium": true,
+      "files": [
+        {
+          "part": 1,
+          "filename": "soniccol.rar",
+          "gdrive_id": "1MGv9alleFniXjCYfbnI8GE4QT4W3hB6n",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1MGv9alleFniXjCYfbnI8GE4QT4W3hB6n"
+        }
+      ]
+    },
+    {
+      "appid": 637100,
+      "title": "Sonic Forces",
+      "publisher": "SEGA",
+      "category": "other",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/637100/library_600x900.jpg?t=1721835135",
+      "password": "nexaplay",
+      "premium": true,
+      "files": [
+        {
+          "part": 1,
+          "filename": "sonicfor.rar",
+          "gdrive_id": "1_rQoHnoUgCTR5prmx_IVfbFfJlaHVRnA",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1_rQoHnoUgCTR5prmx_IVfbFfJlaHVRnA"
+        }
+      ]
+    },
+    {
+      "appid": 460920,
+      "title": "Steep",
+      "publisher": "Ubisoft",
+      "category": "ubisoft",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/460920/library_600x900.jpg?t=1751544814",
+      "password": "nexaplay",
+      "premium": true,
+      "files": [
+        {
+          "part": 1,
+          "filename": "steep.rar",
+          "gdrive_id": "1tp0Qer3fSm9GLogE7R_3HMMSRKpqWBbC",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1tp0Qer3fSm9GLogE7R_3HMMSRKpqWBbC"
+        }
+      ]
+    },
+    {
+      "appid": 785260,
+      "title": "Team Sonic Racing",
+      "publisher": "SEGA",
+      "category": "other",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/785260/library_600x900.jpg?t=1602515271",
+      "password": "nexaplay",
+      "premium": true,
+      "files": [
+        {
+          "part": 1,
+          "filename": "ts_rac.rar",
+          "gdrive_id": "1f8NKFX0uHE2-qWbrpDc6VgFFGozKsNgh",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1f8NKFX0uHE2-qWbrpDc6VgFFGozKsNgh"
+        }
+      ]
+    },
+    {
+      "appid": 3483510,
+      "title": "The Adventures of Elliot: The Millennium Tales",
+      "publisher": "Square Enix",
+      "category": "other",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/3483510/c45a0dcc4361206e34be411af44de7cf0cd2cd5b/library_capsule.jpg?t=1789463096",
+      "password": "nexaplay",
+      "premium": true,
+      "files": [
+        {
+          "part": 1,
+          "filename": "ta_tal.rar",
+          "gdrive_id": "15H8N_QWXt2k191m6S85nbXxd1XRssJGH",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=15H8N_QWXt2k191m6S85nbXxd1XRssJGH"
+        }
+      ]
+    },
+    {
+      "appid": 2698940,
+      "title": "The Crew Motorfest",
+      "publisher": "Ubisoft",
+      "category": "ubisoft",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/2698940/library_600x900.jpg?t=1762276943",
+      "password": "nexaplay",
+      "premium": true,
+      "use_shortcut": true,
+      "exe_hint": "TheCrewMotorfest_BE.exe",
+      "files": [
+        {
+          "part": 1,
+          "filename": "tc_mot.rar",
+          "gdrive_id": "1ydFegd0jyY-KDDQJe-pXO-PTXmrT-WZ8",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1ydFegd0jyY-KDDQJe-pXO-PTXmrT-WZ8"
         }
       ]
     }
