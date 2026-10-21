@@ -1307,23 +1307,6 @@
       ]
     },
     {
-      "appid": 1904540,
-      "title": "Football Manager 2023",
-      "publisher": "SEGA",
-      "category": "other",
-      "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1904540/library_600x900_2x.jpg?t=1700157303",
-      "password": "adi83geel",
-      "premium": true,
-      "files": [
-        {
-          "part": 1,
-          "filename": "fm_202.rar",
-          "gdrive_id": "1uoNyiqZzqa5PvBnf6Jpdh9r-htaIScgi",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=1uoNyiqZzqa5PvBnf6Jpdh9r-htaIScgi"
-        }
-      ]
-    },
-    {
       "appid": 1546970,
       "title": "Grand Theft Auto III – The Definitive Edition",
       "publisher": "Rockstar Games",
@@ -3213,7 +3196,7 @@
       ]
     },
     {
-      "appid": 1100750,
+      "appid": 1100600,
       "title": "Football Manager 2020",
       "publisher": "SEGA",
       "category": "other",
@@ -3230,7 +3213,7 @@
       ]
     },
     {
-      "appid": 2017220,
+      "appid": 1904540,
       "title": "Football Manager 2023",
       "publisher": "SEGA",
       "category": "other",
