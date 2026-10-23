@@ -468,20 +468,20 @@
     },
     {
       "appid": 3595230,
-      "title": "Call of Duty®: Modern Warfare® II",
+      "title": "Call of Duty: Modern Warfare II",
       "publisher": "Activision",
-      "category": "other",
+      "category": "steam",
       "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3595230/89267cd5928eebbb7ec07562e912717eba09ebc2/library_capsule_2x.jpg",
-      "password": "gamehub",
-      "premium": true,
+      "password": "nexaplay",
       "use_shortcut": true,
-      "exe_hint": "_MWII Lightning Launcher_.exe",
+      "exe_hint": "!start_sp22.bat",
+      "premium": true,
       "files": [
         {
           "part": 1,
-          "filename": "co_ii.rar",
-          "gdrive_id": "10UJ3QhD7poPSFXMTy7zHVFoylq0cxDnc",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=10UJ3QhD7poPSFXMTy7zHVFoylq0cxDnc"
+          "filename": "cod_mw_2.rar",
+          "gdrive_id": "1ZxFQaYfxWEvWNRNzqYym1HtBDVvz6mit",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1ZxFQaYfxWEvWNRNzqYym1HtBDVvz6mit"
         }
       ]
     },
@@ -521,20 +521,20 @@
     },
     {
       "appid": 3595270,
-      "title": "Call of Duty®: Modern Warfare® III",
+      "title": "Call of Duty: Modern Warfare III",
       "publisher": "Activision",
-      "category": "other",
+      "category": "steam",
       "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3595270/a3070fe258d1e2a0232aad783d34f927629dbd21/library_capsule_2x.jpg",
-      "password": "gamehub",
+      "password": "nexaplay",
       "premium": true,
       "use_shortcut": true,
-      "exe_hint": "_MWIII Lightning Launcher_.exe",
+      "exe_hint": "!start_sp23.bat",
       "files": [
         {
           "part": 1,
-          "filename": "co_iii.rar",
-          "gdrive_id": "1iKq2Rn3w2XmK5apq-1NsupUE9dldSzeo",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=1iKq2Rn3w2XmK5apq-1NsupUE9dldSzeo"
+          "filename": "cod_mw_3.rar",
+          "gdrive_id": "1T6VVwLmy2EZ9C5QkeI2RMfYAaOzKcOwX",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1T6VVwLmy2EZ9C5QkeI2RMfYAaOzKcOwX"
         }
       ]
     },
@@ -2412,16 +2412,18 @@
       "appid": 2000950,
       "title": "Call of Duty: Modern Warfare",
       "publisher": "Activision",
-      "category": "activision",
+      "category": "steam",
       "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2000950/library_600x900_2x.jpg",
-      "password": "gamehub",
+      "password": "nexaplay",
+      "use_shortcut": true,
+      "exe_hint": "!start_cod.bat",
       "premium": true,
       "files": [
         {
           "part": 1,
-          "filename": "co_warf.rar",
-          "gdrive_id": "1QYA8u_ZVL46tx9usTA5hKUtDR5bh4GAE",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=1QYA8u_ZVL46tx9usTA5hKUtDR5bh4GAE"
+          "filename": "cod_mw_1.rar",
+          "gdrive_id": "1SUt1x24eZ1jyfRyby5car7c4-jpzIhHH",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1SUt1x24eZ1jyfRyby5car7c4-jpzIhHH"
         }
       ]
     },
