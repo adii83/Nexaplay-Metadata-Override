@@ -3186,6 +3186,7 @@
       "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/4080220/81210d536b70c14e4cf9725f3f03d82bf64e5e25/library_capsule.jpg?t=1790973254",
       "password": "nexaplay",
       "premium": true,
+      "aktivasi_offline": true,
       "use_shortcut": true,
       "exe_hint": "FC27.exe",
       "files": [
