@@ -474,14 +474,14 @@
       "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3595230/89267cd5928eebbb7ec07562e912717eba09ebc2/library_capsule_2x.jpg",
       "password": "nexaplay",
       "use_shortcut": true,
-      "exe_hint": "!start_sp22.bat",
+      "exe_hint": "StartCODMWII.exe",
       "premium": true,
       "files": [
         {
           "part": 1,
           "filename": "cod_mw_2.rar",
-          "gdrive_id": "1ZxFQaYfxWEvWNRNzqYym1HtBDVvz6mit",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=1ZxFQaYfxWEvWNRNzqYym1HtBDVvz6mit"
+          "gdrive_id": "1BtKoXXD88fO-yxtGRfFaOzIRG-JVJNpX",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1BtKoXXD88fO-yxtGRfFaOzIRG-JVJNpX"
         }
       ]
     },
@@ -528,13 +528,13 @@
       "password": "nexaplay",
       "premium": true,
       "use_shortcut": true,
-      "exe_hint": "!start_sp23.bat",
+      "exe_hint": "StartCODMWIII.exe",
       "files": [
         {
           "part": 1,
           "filename": "cod_mw_3.rar",
-          "gdrive_id": "1T6VVwLmy2EZ9C5QkeI2RMfYAaOzKcOwX",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=1T6VVwLmy2EZ9C5QkeI2RMfYAaOzKcOwX"
+          "gdrive_id": "1loFQZMxWfIL-Oey9vDdoqkRn5Rzv7yAd",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1loFQZMxWfIL-Oey9vDdoqkRn5Rzv7yAd"
         }
       ]
     },
@@ -2416,14 +2416,14 @@
       "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2000950/library_600x900_2x.jpg",
       "password": "nexaplay",
       "use_shortcut": true,
-      "exe_hint": "!start_cod.bat",
+      "exe_hint": "StartCODMW.exe",
       "premium": true,
       "files": [
         {
           "part": 1,
           "filename": "cod_mw_1.rar",
-          "gdrive_id": "1SUt1x24eZ1jyfRyby5car7c4-jpzIhHH",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=1SUt1x24eZ1jyfRyby5car7c4-jpzIhHH"
+          "gdrive_id": "135TbBWTp9iY_WDa5C0Q-nmWpybJQoJ9Z",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=135TbBWTp9iY_WDa5C0Q-nmWpybJQoJ9Z"
         }
       ]
     },
