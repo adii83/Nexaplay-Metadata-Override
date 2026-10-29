@@ -2467,16 +2467,16 @@
       "publisher": "Electronic Arts",
       "category": "ea",
       "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1237950/library_600x900_2x.jpg",
-      "password": "adi83geel",
+      "password": "nexaplay",
       "premium": true,
       "use_shortcut": true,
       "exe_hint": "starwarsbattlefrontii.exe",
       "files": [
         {
           "part": 1,
-          "filename": "sw_ii.rar",
-          "gdrive_id": "1ctrO63om4-PsWj_uCvG6nIQy_8VLxBjH",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=1ctrO63om4-PsWj_uCvG6nIQy_8VLxBjH"
+          "filename": "sb_2.rar",
+          "gdrive_id": "1eI0dlfmoSFhptZIG2SL8Oi-OC161TX4_",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1eI0dlfmoSFhptZIG2SL8Oi-OC161TX4_"
         }
       ]
     },
