@@ -3390,6 +3390,78 @@
           "gdrive_url": "https://drive.google.com/uc?export=download&id=1ydFegd0jyY-KDDQJe-pXO-PTXmrT-WZ8"
         }
       ]
+    },
+    {
+      "appid": 1237980,
+      "title": "STAR WARS™ Battlefront",
+      "publisher": "Electronic Arts",
+      "category": "ea",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/1237980/library_600x900.jpg?t=1777393769",
+      "password": "nexaplay",
+      "premium": true,
+      "use_shortcut": true,
+      "exe_hint": "starwarsbattlefront.exe",
+      "files": [
+        {
+          "part": 1,
+          "filename": "sw_b.rar",
+          "gdrive_id": "16TQEmXJQyo9IPWJbMLX2_DMpgcE5WIZb",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=16TQEmXJQyo9IPWJbMLX2_DMpgcE5WIZb"
+        }
+      ]
+    },
+    {
+      "appid": 620,
+      "title": "Portal 2",
+      "publisher": "Valve",
+      "category": "other",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/620/library_600x900.jpg?t=1790187113",
+      "password": "nexaplay",
+      "premium": true,
+      "files": [
+        {
+          "part": 1,
+          "filename": "portal_2.rar",
+          "gdrive_id": "1We9fLnqehO0Rptc3G5kWlLlQogWsIkSC",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1We9fLnqehO0Rptc3G5kWlLlQogWsIkSC"
+        }
+      ]
+    },
+    {
+      "appid": 4435490,
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "publisher": "Activision",
+      "category": "other",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/4435490/c71bc2cb60e440d1a0d2435d0c06c4d4a4050edf/library_capsule.jpg?t=1793201144",
+      "password": "nexaplay",
+      "premium": true,
+      "use_shortcut": true,
+      "exe_hint": "StartCODMW4.exe",
+      "files": [
+        {
+          "part": 1,
+          "filename": "cod_mw4.rar",
+          "gdrive_id": "18NWJrapHaIYezMYzZwhA_Y03hIubCb1f",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=18NWJrapHaIYezMYzZwhA_Y03hIubCb1f"
+        }
+      ]
+    },
+    {
+      "appid": 1285190,
+      "title": "Borderlands 4",
+      "publisher": "2K",
+      "category": "other",
+      "poster": "https://shared.steamstatic.com/store_item_assets/steam/apps/1285190/e68c1eeacfc21e61e5a03ae81a20694856665af4/library_600x900.jpg?t=1789422727",
+      "password": "nexaplay",
+      "premium": true,
+      "files": [
+        {
+          "part": 1,
+          "filename": "borderlands4.rar",
+          "gdrive_id": "17Qo2ygdeZVWRicFWi_Ypp45CQMeKYgn-",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=17Qo2ygdeZVWRicFWi_Ypp45CQMeKYgn-"
+        }
+      ]
     }
   ]
 }
