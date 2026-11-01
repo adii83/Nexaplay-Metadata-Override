@@ -1,5 +1,22 @@
 {
   "games": [
+        {
+      "appid": 2638890,
+      "title": "Onimusha: Way of the Sword",
+      "publisher": "CAPCOM Co., Ltd.",
+      "category": "other",
+      "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2638890/730daf025e5922da7441a4c02b1999f27dc026fd/library_capsule.jpg?t=1790383151",
+      "password": "nexaplay",
+      "premium": true,
+      "files": [
+        {
+          "part": 1,
+          "filename": "owots.rar",
+          "gdrive_id": "17DkJAN6D5LZfuisOIhWAUL3RjMqSHoqD",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=17DkJAN6D5LZfuisOIhWAUL3RjMqSHoqD"
+        }
+      ]
+    },
     {
       "appid": 48190,
       "title": "Assassin’s Creed® Brotherhood",
