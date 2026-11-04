@@ -2037,16 +2037,14 @@
       "publisher": "Electronic Arts",
       "category": "ea",
       "poster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1328660/library_600x900_2x.jpg",
-      "password": "adi83geel",
-      "premium": false,
-      "use_shortcut": true,
-      "exe_hint": "NFS11.exe",
+      "password": "nexaplay",
+      "premium": true,
       "files": [
         {
           "part": 1,
-          "filename": "nf_rem.rar",
-          "gdrive_id": "1nVrXBBE16YVkUbOR9wZxQjx4Vhj7ezvF",
-          "gdrive_url": "https://drive.google.com/uc?export=download&id=1nVrXBBE16YVkUbOR9wZxQjx4Vhj7ezvF"
+          "filename": "nfs_hpr.rar",
+          "gdrive_id": "1PfCFnrmic4dg9x01i9bwKyUaFcnn1xc2",
+          "gdrive_url": "https://drive.google.com/uc?export=download&id=1PfCFnrmic4dg9x01i9bwKyUaFcnn1xc2"
         }
       ]
     },
